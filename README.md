@@ -10,3 +10,5 @@ Course Page of IE901 Industrial Engineering
   - [MS](https://www.newschool.edu/parsons/ms-design-management/)
 
 # Allegro Center of Design Thinking and Computational Approach
+
+- Established in May 2021
