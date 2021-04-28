@@ -8,3 +8,5 @@ Course Page of IE901 Industrial Engineering
   - [BBA](https://www.newschool.edu/parsons/bba-design-management/)
   - [Executive](https://www.newschool.edu/parsons/ms-design-management-global-executive/)
   - [MS](https://www.newschool.edu/parsons/ms-design-management/)
+
+# Allegro Center of Design Thinking and Computational Approach
