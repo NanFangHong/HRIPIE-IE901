@@ -12,3 +12,5 @@ Course Page of IE901 Industrial Engineering
 ### Allegro Center of Design Thinking and Computational Approach
 
 - Established in May 2021
+- First Chief Design Officer and Chief Computing Officer appointed in June 2021
+- Project 0: Geometric Description for Diamond Authentication
