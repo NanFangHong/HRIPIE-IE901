@@ -19,3 +19,5 @@ Course Page of IE901 Industrial Engineering
 - Project 1: SaaS for Bedroom and Catering Services
 - Project 2: Upgrade Honz Website
 - Project 3: Appropriate Tech for Administrative Logistics at Honz
+
+Reading: Donald Norman 《设计心理学》
