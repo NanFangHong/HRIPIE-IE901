@@ -11,6 +11,8 @@ Course Page of IE901 Industrial Engineering
 
 ### Allegro Center of Design Thinking and Computational Approach
 
+![Allegro Center](/file/allegro.png)
+
 - Established in May 2021
 - First Chief Design Officer and Chief Computing Officer appointed in June 2021
   - **何月君**，*Postdoc in Design Education (SUTD-MIT IDC), PhD in Data-driven Design (SUTD), Bachelor in Communication Engineering (ZJU)*
