@@ -21,5 +21,6 @@ Course Page of IE901 Industrial Engineering
 
 - Project 0: Geometric Description for Diamond Authentication
 - Project 1: Honz Cyberspace: from 0 to 1
+- Project 2: Supply Chain Diagnostic: from 0 to 1
 
 Reading: Donald Norman 《设计心理学》
