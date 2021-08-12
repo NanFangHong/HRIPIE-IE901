@@ -13,3 +13,6 @@
 - Project 2: Supply Chain Diagnostic: from 0 to 1
 
 Reading: Donald Norman 《设计心理学》
+
+![Honz Academy](/file/HA_logo.png)
+![Honz Food](/file/HF_logo.png)
